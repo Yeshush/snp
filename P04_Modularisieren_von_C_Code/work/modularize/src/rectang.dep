@@ -1,0 +1,5 @@
+. rectang.h
+/usr/bin/ld: cannot find ...: No such file or directory
+/usr/bin/ld: cannot find ..: file format not recognized
+/usr/bin/ld: cannot find ...: No such file or directory
+collect2: error: ld returned 1 exit status

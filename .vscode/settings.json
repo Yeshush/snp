@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "test_utils.h": "c",
+        "rectang.h": "c",
+        "type_traits": "c"
+    }
+}
